@@ -1,0 +1,9 @@
+configuração - css
+lógica - java
+conteudo - html
+
+UTF=8 - Alfabeto latinos
+linguagens compiladas são "tipadas"
+linguagens interpretadas podem ultilizar variaveis não tipada (não é preciso informar o tipo da variavel)
+
+
